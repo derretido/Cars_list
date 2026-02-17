@@ -1,5 +1,6 @@
 ## 🌐 Languages
-- [Português](READMEpt.md)
+- [English](README.md)
+- [Português](README.pt.md)
 
 # 🚗 Car Management System
 
